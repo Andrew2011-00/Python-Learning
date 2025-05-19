@@ -2,13 +2,20 @@
 
 ## 📚 Topics Covered
 - Variables and strings in Python
+- True and False Values
 - Basic `print()` statements
+- Checking Number Equality using `==` and `!=`
+- Formating Strings
 - Using file extensions properly (`.py` vs `.txt`)
 - Introduction to Git and GitHub
 - Git commands: `add`, `commit`, `push`, `pull`, merge handling
 
 ## 💻 Files/Projects Created
+
+- Bot - Part 1 (Mimo Project)
 - `variables.py`: Practiced assigning and printing variables in Python
+- `True_False.py`: Practiced printing True or False values by using `==` and `!=`
+- `Format_String.py`: Practiced formatting strings.
 
 ## ✅ Achievements
 - Finished Section 1 of Mimo (Intro to Python)
