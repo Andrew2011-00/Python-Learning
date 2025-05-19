@@ -7,7 +7,7 @@ Each file demonstrates a concept I’ve studied (e.g., variables, loops, functio
 To build a strong foundation in Python and eventually transition into AI development.
 
 
-## ✅ Topics Covered So Far ():
+## ✅ Topics Covered So Far (Mimo: Python Development Career Path):
 | Topic | Topic Covered         | Journal Link                          | Key Exercise         |
 |------|------------------------|----------------------------------------|----------------------|
 | 1    | Intro to Python        | [Week 1 Log](learning-journal/week-01-learning-log.md) | [Week 1 Exercises](exercises/week-1)        |
