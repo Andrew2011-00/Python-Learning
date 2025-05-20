@@ -11,7 +11,7 @@ To build a strong foundation in Python and eventually transition into AI develop
 | Topic | Topic Covered         | Journal Link                          | Key Exercise         |
 |------|------------------------|----------------------------------------|----------------------|
 | 1    | Intro to Python        | [Week 1 Log](learning-journal/week-01-learning-log.md) | [Week 1 Exercises](exercises/week-1)        |
-| 2    | Flow Control   |      ❌       |               ❌        |              
+| 2    | Flow Control   | [Week 1 Log](learning-journal/week-01-learning-log.md)  |[Week 1 Exercises](exercises/week-1)  |              
 | 3    | Lists   |       ❌        |              ❌           |               
 | 4    | Functions |      ❌        |           ❌          |
 | 5    | Tuples, Dictionaries, & Sets |      ❌        |            ❌         |
