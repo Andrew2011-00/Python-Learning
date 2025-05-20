@@ -15,7 +15,7 @@
 ---
 
 📌 Platform Update
-I started this week learning with **Mimo (Pro)** and completed the Intro to Python section over 2 days. While Mimo helped me get comfortable with the basics, I decided to switch to **Hyperskill (Premium)** for a more structured and project-based learning approach. I’m now following the **Python for Beginners** track on Hyperskill, which aligns better with my goal of becoming an AI developer through my upcoming Computing and IT with Statistics degree.
+I started this week learning with **Mimo (Pro)** and completed the Intro to Python section over 2 days. While Mimo helped me get comfortable with the basics, I decided to switch to **Hyperskill (Premium)** for a more structured and project-based learning approach. I’m now following the **Python Core** course on Hyperskill, which aligns better with my goal of becoming an AI developer through my upcoming Computing and IT with Statistics degree.
 
 ---
 
@@ -54,7 +54,7 @@ I started this week learning with **Mimo (Pro)** and completed the Intro to Pyth
 ---
 
 🎯 Next Week’s Goals
-- Continue the Hyperskill Python for Beginners track
+- Continue the Hyperskill Python Core course
 - Create new `.py` files for each new concept
 - Build a small Python guessing game as a mini project
 
