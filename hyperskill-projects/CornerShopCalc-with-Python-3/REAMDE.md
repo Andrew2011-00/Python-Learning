@@ -12,7 +12,7 @@ Throughout this project, I practiced and reinforced the following Python fundame
 - 🔢 **Data Types**: strings, integers, booleans
 - 🧮 **Integer Arithmetic** and basic math operations
 - 🧑‍💻 **Taking User Input** using `input()`
-- 🖊️ **Sep and end arguments of print
+- 🖊️ **Sep and end** arguments of print
 
 ## 📋 Project Stages
 
