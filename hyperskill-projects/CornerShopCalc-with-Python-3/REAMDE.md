@@ -1,6 +1,7 @@
 # 🤑 Corner Shop Calculator with Python (Hyperskill Project)
 
 This is a simple console-based income calculator project I completed as part of my Python learning journey on [Hyperskill](https://hyperskill.org). The goal of the project was to build a tool to track earnings by inputting product sales, staff costs, and other expenses and watch Python create a practical calculator that will give a clear picture of the shop's financial health.
+
 ---
 
 ## 🧠 What I Learned
@@ -46,8 +47,10 @@ This project was completed in 5 stages as part of the Hyperskill platform:
 ---
 
 ✅ Reflection
+
 This was the simplest project I’ve done so far — it focused on basic user input and printing output to the console. Even though it was designed to be a beginner-level project, I ended up doing it after completing some of the more advanced ones like the Chatbot.
 Because of that, it felt very easy and straightforward, but it was still a nice reminder of how much I've learned. It also gave me a chance to appreciate the basics again and see how comfortable I’ve become with writing simple Python programs without overthinking them.
+
 ---
 Feel free to explore the code and play with it — or build your own chatbot using the same structure and logic!
 
