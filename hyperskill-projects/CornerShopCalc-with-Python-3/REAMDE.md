@@ -52,5 +52,5 @@ This was the simplest project I’ve done so far — it focused on basic user in
 Because of that, it felt very easy and straightforward, but it was still a nice reminder of how much I've learned. It also gave me a chance to appreciate the basics again and see how comfortable I’ve become with writing simple Python programs without overthinking them.
 
 ---
-Feel free to explore the code and play with it — or build your own chatbot using the same structure and logic!
+Feel free to explore the code and play with it.
 
