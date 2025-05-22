@@ -47,6 +47,7 @@ This project was completed in 5 stages as part of the Hyperskill platform:
 ---
 
 ✅ Reflection
+
 This project was a great follow-up to the Chatbot project I did earlier on Hyperskill. It allowed me to apply everything I had already learned — like using variables, conditionals, loops, functions, and user input — but in a more straightforward and less complex way. Since I was already familiar with the concepts, I found it much easier and quicker to complete.
 Even though it was a simple project, it helped reinforce my understanding and made me feel much more confident working with Python. It showed me how far I’ve come and reminded me that repetition really helps solidify skills.
 ---
