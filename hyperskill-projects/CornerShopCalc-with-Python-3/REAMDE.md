@@ -46,7 +46,7 @@ This project was completed in 5 stages as part of the Hyperskill platform:
    python corner_shop_calc.py
 ---
 
-✅ Reflection
+#✅ Reflection
 
 This was the simplest project I’ve done so far — it focused on basic user input and printing output to the console. Even though it was designed to be a beginner-level project, I ended up doing it after completing some of the more advanced ones like the Chatbot.
 Because of that, it felt very easy and straightforward, but it was still a nice reminder of how much I've learned. It also gave me a chance to appreciate the basics again and see how comfortable I’ve become with writing simple Python programs without overthinking them.
