@@ -45,8 +45,10 @@ This project was completed in 5 stages as part of the Hyperskill platform:
    ```bash
    git clone https://github.com/YOUR_USERNAME/python-learning.git
 3. Navigate to the project folder:
+   ```bash
    cd python-learning/hyperkill-projects/Chatbot-with-Python-1/
 4. Run the Chatbot:
+   ```bash
    python Chatbot-with-Python.py
 ---
 
