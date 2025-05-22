@@ -53,6 +53,7 @@ This project was completed in 5 stages as part of the Hyperskill platform:
 ## ✅ Reflection
 
 This was a Hyperskill project that helped me get comfortable with the basics of Python programming. I initially struggled with while loops and structuring functions, but through trial and error, I gradually improved. Watching the chatbot evolve step by step made learning both fun and practical.
+
 ---
 Feel free to explore the code and play with it — or build your own chatbot using the same structure and logic!
 
