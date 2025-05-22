@@ -44,11 +44,11 @@ This project was completed in 5 stages as part of the Hyperskill platform:
 4. Run the Chatbot:
    ```bash
    python zookeper.py
----
 
-✅ Reflection
+## ✅ Reflection
 
 This project was a great follow-up to the Chatbot project I did earlier on Hyperskill. It allowed me to apply everything I had already learned — like using variables, conditionals, loops, functions, and user input — but in a more straightforward and less complex way. Since I was already familiar with the concepts, I found it much easier and quicker to complete.
 Even though it was a simple project, it helped reinforce my understanding and made me feel much more confident working with Python. It showed me how far I’ve come and reminded me that repetition really helps solidify skills.
+
 ---
 Feel free to explore the code and play with it — or build your own zoo using the same structure and logic!
