@@ -1,7 +1,6 @@
 # 🤖 Chatbot with Python (Hyperskill Project)
 
 This is a simple console-based chatbot project I completed as part of my Python learning journey on [Hyperskill](https://hyperskill.org). The goal of the project was to apply core Python concepts by building a chatbot that interacts with the user through different stages — from greetings to guessing their age, counting, and playing a quiz.
----
 
 ## 🧠 What I Learned
 
