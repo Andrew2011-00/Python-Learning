@@ -15,16 +15,15 @@ This repo is my way of staying consistent, documenting what I learn, and sharing
 
 ## 💻 Projects Completed (Hyperskill)
 
-| #   | Project Name                        | Description                                | Link (if available)      |
-|-----|-------------------------------------|--------------------------------------------|---------------------------|
-| 1   | Chatbot with Python                 | A basic rule-based chatbot using conditionals and strings | [Project Folder](projects/01-Chatbot-with-Python) |
-| 2   | Zookeeper with Python               | Simulates a zookeeper interacting with animals via console | [Project Folder](projects/02-Zookeper-with-Python) |
-| 3   | Corner Shop Calculator              | Simple calculator for a shop’s items and totals | [Project Folder](projects/03-CornerShopCalc-with-Python) |
-| 4   | Last Pencil                         | A pencil-removal game against the computer (or another player) | [Project Folder](projects/04-LastPencil-with-Python) |
-| 5   | Currency Converter                  | Converts currency values using user input | [Project Folder](projects/05-CurrencyConverter-with-Python) |
-| 6   | Bill Splitter                       | Splits a restaurant bill fairly among friends | [Project Folder](projects/06-BillSplitter-with-Python) |
-| 7   | Coffee Machine                      | Simulates a coffee machine with resources and user interaction | [Project Folder](projects/07-CoffeMachine-with-Python) |
-
+| #   | Project Name                        | Description                                | Link                     |
+|-----|-------------------------------------|--------------------------------------------|--------------------------|
+| 1   | Chatbot with Python                 | A basic rule-based chatbot using conditionals and strings | [View](hyperskill-projects/01-Chatbot-with-Python) |
+| 2   | Zookeeper with Python               | Simulates a zookeeper interacting with animals via console | [View](hyperskill-projects/02-Zookeper-with-Python) |
+| 3   | Corner Shop Calculator              | Simple calculator for a shop’s items and totals | [View](hyperskill-projects/03-CornerShopCalc-with-Python) |
+| 4   | Last Pencil                         | A pencil-removal game against the computer (or another player) | [View](hyperskill-projects/04-LastPencil-with-Python) |
+| 5   | Currency Converter                  | Converts currency values using user input | [View](hyperskill-projects/05-CurrencyConverter-with-Python) |
+| 6   | Bill Splitter                       | Splits a restaurant bill fairly among friends | [View](hyperskill-projects/06-BillSplitter-with-Python) |
+| 7   | Coffee Machine                      | Simulates a coffee machine with resources and user interaction | [View](hyperskill-projects/07-CoffeMachine-with-Python) |
 ---
 
 ## 📌 Platforms Used
