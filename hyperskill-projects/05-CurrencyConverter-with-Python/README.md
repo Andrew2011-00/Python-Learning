@@ -1,8 +1,3 @@
----
-
-### 📁 `05-CurrencyConverter-with-Python/README.md`
-
-```markdown
 # 💱 Currency Converter
 
 A simple CLI app that converts amounts between currencies based on fixed exchange rates.
