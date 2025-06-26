@@ -17,7 +17,7 @@ You run the program using `argparse` to specify the required parameters. Example
 
 ```bash
 python loan_calculator.py --type=annuity --payment=8722 --periods=120 --interest=5.6
-
+```
 Supported arguments:
 
 - --type: "annuity" or "diff" (for differentiated)
@@ -36,7 +36,7 @@ Supported arguments:
 ```bash
 It will take 10 years to repay this loan!
 Overpayment = 146640
-
+```
 ## 📌 What I Learned
 
 - How to use the argparse module for parsing command-line arguments.
