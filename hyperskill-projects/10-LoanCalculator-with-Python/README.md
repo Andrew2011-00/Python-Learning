@@ -29,6 +29,7 @@ Supported arguments:
 - --periods: Number of months
 
 - --interest: Interest rate (required for all types)
+  
 ⚠️ Interest is required for all calculations.
 ⚠️ You can’t mix diff with --payment.
 
