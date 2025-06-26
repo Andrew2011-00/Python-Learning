@@ -31,6 +31,7 @@ Supported arguments:
 - --interest: Interest rate (required for all types)
   
 ⚠️ Interest is required for all calculations.
+
 ⚠️ You can’t mix diff with --payment.
 
 ## 🧪 Example Output
